@@ -1,16 +1,11 @@
-# EduGuide Server Using Laravel 7
+# tiktok auto liker
 
-# Dependencies Requirements
-1. `php`
-2. `composer`
-3. `mysql`
-4. `apache2`
-5.
+auto likes + watches videos in your fyp to push your engagement. makes the algorithm love you.
 
+## usage
 
-# Installation Guide
- 1. ` cd edu_guide_server`
- 2. `composer update`
- 3. ` composer install`
- 4. `php artisan serve (running localhost)`
- 5. `php artisan serve --host ipaddr  --port number  (for any other machine can communicate)` 
+1. download exe from releases
+2. login once
+3. leave it running while you sleep
+
+also auto replies to comments on your posts
